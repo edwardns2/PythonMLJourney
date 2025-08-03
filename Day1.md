@@ -16,9 +16,21 @@ To create new virtual env, I did the following:
 
 1. VSCode - open Terminal
 2. In directory `uv init` and then run `uv run main.py` - this creates the virtual environment
-3. Run `source .venv/bin/activate` to activate the virtual env
-* 4. To deactivate run `deactivate` *
-5. Adding Dependencies / Libraries - For example, to add Pandas run `uv add Pandas`
+3. Run `source .venv/bin/activate` to activate the virtual env * To deactivate run `deactivate` *
+4. Adding Dependencies / Libraries - For example, to add Pandas run `uv add Pandas`
+
+## GitHub Sync
+
+To add file to GitHub repo, I ran:
+
+1. `git status` - see the status of the files
+2. `git add .` - add files to the staging area
+3. `git commit -m "Initial Commit"` 
+4. `git remote add origin https://github.com/yourusername/your-repo-name.git`
+5. `git branch -M main`
+6. `git push -u origin main`
+
+
 
 
 
