@@ -30,7 +30,9 @@ To add file to GitHub repo, I ran:
 5. `git branch -M main`
 6. `git push -u origin main`
 
+For the next few commits, I just used the Source Control window in VSCode.
 
+Everything seems ot be set up and running as shold be - which is a relief
 
 
 
