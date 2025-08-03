@@ -1,4 +1,5 @@
 # PythonMLJourney
-My path from zero to Better
+My path from Zero to Better than Zero
 
-[Day 1](Day1.md)
+[Day 1](Day1.md) - Setting up (vitrual environment, GitHub)
+[Day 2](Day2.md) - Stock Data download and EDA
